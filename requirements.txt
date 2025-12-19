@@ -1,0 +1,4 @@
+jupyterlab
+jupyterlab-chat
+cohere
+langchain_nvidia_ai_endpoints
