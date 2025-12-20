@@ -1,62 +1,62 @@
 {
   "messages": [
     {
+      "time": 1766090116.8452942,
+      "body": "",
+      "edited": true,
+      "raw_time": false,
       "sender": "a76d87885a25407bac68baab645e47b2",
       "id": "cba4f8a4-035f-41d5-a985-4bdad463e6f9",
-      "body": "",
-      "time": 1766090116.8452942,
-      "raw_time": false,
-      "edited": true,
       "type": "msg",
       "deleted": true
     },
     {
+      "body": "",
       "type": "msg",
       "id": "a5150e7a-0a7c-40ab-ade5-f16afbe37e40",
+      "raw_time": false,
       "sender": "a76d87885a25407bac68baab645e47b2",
-      "deleted": true,
       "time": 1766091054.0449355,
-      "body": "",
-      "raw_time": false
+      "deleted": true
     },
     {
-      "id": "3ec69fb8-58db-4088-b0fa-dd822475eecf",
-      "type": "msg",
-      "time": 1766091265.0895605,
       "sender": "a76d87885a25407bac68baab645e47b2",
+      "id": "3ec69fb8-58db-4088-b0fa-dd822475eecf",
       "raw_time": false,
-      "body": "ola"
+      "time": 1766091265.0895605,
+      "body": "ola",
+      "type": "msg"
     },
     {
-      "sender": "79c841f0d6574674b4917262f9357e73",
-      "time": 1766170744.6506703,
-      "deleted": true,
-      "raw_time": false,
       "type": "msg",
       "body": "",
-      "id": "a5cab80d-d766-4391-8105-19e1749bbc34"
+      "deleted": true,
+      "time": 1766170744.6506703,
+      "id": "a5cab80d-d766-4391-8105-19e1749bbc34",
+      "sender": "79c841f0d6574674b4917262f9357e73",
+      "raw_time": false
     }
   ],
   "users": {
-    "79c841f0d6574674b4917262f9357e73": {
-      "mention_name": "Anonymous-Pasiphae",
-      "name": "Anonymous Pasiphae",
-      "username": "79c841f0d6574674b4917262f9357e73",
-      "bot": false,
-      "avatar_url": null,
-      "initials": "AP",
-      "display_name": "Anonymous Pasiphae",
-      "color": "var(--jp-collaborator-color2)"
-    },
     "a76d87885a25407bac68baab645e47b2": {
-      "initials": "AC",
-      "name": "Anonymous Carpo",
       "username": "a76d87885a25407bac68baab645e47b2",
-      "mention_name": "Anonymous-Carpo",
-      "color": "var(--jp-collaborator-color1)",
+      "name": "Anonymous Carpo",
       "display_name": "Anonymous Carpo",
       "avatar_url": null,
+      "color": "var(--jp-collaborator-color1)",
+      "mention_name": "Anonymous-Carpo",
+      "initials": "AC",
       "bot": false
+    },
+    "79c841f0d6574674b4917262f9357e73": {
+      "color": "var(--jp-collaborator-color2)",
+      "username": "79c841f0d6574674b4917262f9357e73",
+      "display_name": "Anonymous Pasiphae",
+      "bot": false,
+      "mention_name": "Anonymous-Pasiphae",
+      "initials": "AP",
+      "avatar_url": null,
+      "name": "Anonymous Pasiphae"
     }
   },
   "attachments": {},

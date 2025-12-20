@@ -1,4 +1,12 @@
+# Latest stable: 2.31.6 | Latest beta: 3.0.0b7
+jupyter-ai>=3.0.0b7
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+requests
 jupyterlab
 jupyterlab-chat
 cohere
 langchain_nvidia_ai_endpoints
+matplotlib
+numpy
